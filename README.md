@@ -17,6 +17,15 @@ I am a passionate developer focused on building cross-platform mobile applicatio
 
 ---
 
+### 🏢 Experience & Organizations
+
+*  *Ubn-Jr* &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/109652360?s=200&v=4" width="25" align="center" />
+*  *OctopOS Prime* &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/156090134?s=200&v=4" width="25" align="center" />
+*  *Posinowa* &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/159883168?s=200&v=4" width="25" align="center" />
+*  *hexaTune LLC* &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/98528401?s=200&v=4" width="25" align="center" />
+
+---
+
 ### 🛠️ Main Skills & Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
