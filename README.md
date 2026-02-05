@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi! I'm Muhammed Rezan 👋
 
-<!--
-**mrezan12/mrezan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate developer focused on building cross-platform mobile applications and crafting seamless user experiences. Currently balancing my academic journey with hands-on software development.
 
-Here are some ideas to get you started:
+* 🎓 **Ankara University** – Management Information Systems (Distance Education)
+* 💻 Exploring the intersection of **UI Design** and **Mobile Development**.
+* 🐧 Enthusiastic about open-source and customizing my **Pop!_OS** environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 What I Do
+* 📱 **Mobile Developer:** Building apps with Flutter & Dart.
+* 🎨 **UI/UX Designer:** Crafting modern interfaces using Figma.
+* 🛠️ **Web Tech:** Working with JavaScript for modern web projects.
+
+---
+
+### 🛠️ Main Skills & Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pop!_OS-48B4E0?style=for-the-badge&logo=pop-os&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 📡 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-rezan-can-466aa32a2/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammedrezancan@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrezan12&theme=tokyonight&area=true" width="100%" />
+</p>
