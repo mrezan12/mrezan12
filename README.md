@@ -3,7 +3,8 @@
 ### 🚀 About Me
 I am a passionate developer focused on building cross-platform mobile applications and crafting seamless user experiences. Currently balancing my academic journey with hands-on software development.
 
-* 🎓 **Ankara University** – Management Information Systems (Distance Education)
+* 🎓 **Ankara University** – Management Information Systems 
+* 🎓 **Hacettepe University** – Accounting And Text Practices 
 * 💻 Exploring the intersection of **UI Design** and **Mobile Development**.
 * 🐧 Enthusiastic about open-source and customizing my **Pop!_OS** environment.
 
@@ -26,6 +27,13 @@ I am a passionate developer focused on building cross-platform mobile applicatio
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+
+---
+
+### 🎯 Current Projects
+
+* 📱 **[hexaMobileShare](https://github.com/hTuneSys/hexaMobileShare)** - Developing a centralized UI library and design system for the Hexatune ecosystem using **Widgetbook**.
+* 🌬️ **Evistal Smart Control** - Building a dedicated mobile application to monitor and control the **Evistal Smart Humidifier** device.
 
 ---
 
