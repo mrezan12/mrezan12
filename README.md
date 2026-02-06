@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am a passionate developer focused on building cross-platform mobile applications and crafting seamless user experiences. Currently balancing my academic journey with hands-on software development.
 
-* 🎓 **Ankara University** – Management Information Systems 
+* 🎓 **Anadolu University** – Management Information Systems 
 * 🎓 **Hacettepe University** – Accounting And Text Practices 
 * 💻 Exploring the intersection of **UI Design** and **Mobile Development**.
 * 🐧 Enthusiastic about open-source and customizing my **Pop!_OS** environment.
@@ -42,7 +42,7 @@ I am a passionate developer focused on building cross-platform mobile applicatio
 ### 🎯 Work Experience
 
 * 📱 **[hexaMobileShare](https://github.com/hTuneSys/hexaMobileShare)** - Developing a centralized UI library and design system for the Hexatune ecosystem using **Widgetbook**.
-* 🌬️ **Evistal Smart Control** - Building a dedicated mobile application to monitor and control the **Evistal Smart Humidifier** device.
+* 🌬️ **[Evistal Smart Control](https://github.com/mrezan12/evistal_1)** - Building a dedicated mobile application to monitor and control the **Evistal Smart Humidifier** device.
 * 📚 **[Kitaptayazmaz](https://play.google.com/store/apps/details?id=com.kitaptayazmaz&hl=tr)** - Designed Mobile UI/UX design of the Kitaptayazmaz app.
 * 🍔 **[Gastroyummy](https://play.google.com/store/apps/details?id=com.posinowa.gastroyummynew)** - Designed a user-friendly mobile UI/UX focused on seamless food ordering and a delightful culinary experience.
 ---
