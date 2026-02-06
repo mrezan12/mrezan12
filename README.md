@@ -43,7 +43,8 @@ I am a passionate developer focused on building cross-platform mobile applicatio
 
 * 📱 **[hexaMobileShare](https://github.com/hTuneSys/hexaMobileShare)** - Developing a centralized UI library and design system for the Hexatune ecosystem using **Widgetbook**.
 * 🌬️ **Evistal Smart Control** - Building a dedicated mobile application to monitor and control the **Evistal Smart Humidifier** device.
-* 📚 **[Kitaptayazmaz](https://play.google.com/store/apps/details?id=com.kitaptayazmaz&hl=tr)** - Mobile UI/UX design of the Kitaptayazmaz app.
+* 📚 **[Kitaptayazmaz](https://play.google.com/store/apps/details?id=com.kitaptayazmaz&hl=tr)** - Designed Mobile UI/UX design of the Kitaptayazmaz app.
+* 🍔 **[Gastroyummy](https://play.google.com/store/apps/details?id=com.posinowa.gastroyummynew)** - Designed a user-friendly mobile UI/UX focused on seamless food ordering and a delightful culinary experience.
 ---
 
 ### 📡 Connect with me
